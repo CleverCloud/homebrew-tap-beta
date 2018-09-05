@@ -1,4 +1,4 @@
-# Brew tap for Clever Cloud tools (beta)
+# Brew tap for Clever Cloud tools
 
 This tap is there to allow easy installation of [Clever Cloud tools](https://github.com/CleverCloud/clever-tools) for MacOS users.
 
