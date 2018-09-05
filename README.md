@@ -1,0 +1,7 @@
+# Brew tap for Clever Cloud tools (beta)
+
+This tap is there to allow easy installation of [Clever Cloud tools](https://github.com/CleverCloud/clever-tools) for MacOS users.
+
+## Install
+
+- type `brew install CleverCloud/homebrew-tap-beta/clever-tools`
